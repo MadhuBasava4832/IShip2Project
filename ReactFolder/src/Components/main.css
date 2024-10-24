@@ -1,0 +1,21 @@
+.divone{
+    width: 100%;
+    min-height: 100%;
+}
+.divtwo{
+    width: 100%;
+    min-height: 100%;
+}
+
+.maindatablock{
+    width: 100%;
+    min-height: 100%;
+}
+.eachdata{
+    width: 300px;
+    min-height: 500px;
+    border: 1px solid black;
+}
+.eachdata h1{text-align: center;}
+
+
